@@ -6,7 +6,7 @@ var w = c.width = window.innerWidth,
 		hh = h / 2,
 		
 		opts = {
-			strings: [ 'HAPPY', 'BIRTHDAY!', 'SALONI', "IT'S YOUR SPECIAL DAY",  "GET OUT THERE AND CELEBRATE!", "FORGET THE PAST", "LOOK FORWARD TO THE FUTURE", "FOR THE BEST THINGS", "ARE YET TO COME" ],
+			strings: [ 'HAPPY', 'BIRTHDAY!', 'SALONI', "IT'S YOUR SPECIAL DAY",  "GET OUT THERE", "AND", "CELEBRATE!", "FORGET THE PAST", "LOOK FORWARD", "TO", "THE FUTURE", "FOR THE BEST THINGS", "ARE", "YET TO COME" ],
 			charSize: 30,
 			charSpacing: 35,
 			lineHeight: 40,
